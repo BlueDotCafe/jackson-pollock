@@ -1,0 +1,24 @@
+.Pollock-showing {
+  display: none;
+}
+
+p {
+  cursor: pointer;
+  color: #e45c00;
+  font-size: 17pt;
+  font-weight: lighter;
+  text-align: center;
+  position: absolute;
+}
+
+.underline:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 55pt;
+  text-align: center;
+  color: rgba(112, 107, 62, 0.61);
+}
